@@ -1,0 +1,182 @@
+﻿body {
+    background-color: white;
+    height: 150px;
+}
+
+.nav {
+    width: 100%;
+    height: 50%;
+    padding-top: 25px;
+    padding-left: 80px;
+    background-color: rgb(34,34,34);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#title {
+    font-size: 20px;
+    margin-right: 25px;
+    margin-left: 40px;
+    color: white;
+}
+
+.login {
+    text-decoration: none;
+    margin-left: 10px;
+    color: rgb(241,163,28);
+}
+.option {
+    text-decoration: none;
+    margin-left: 50px;
+    color: rgb(241,163,28);
+}
+
+
+.loginform {
+    text-align: center;
+    height: 20%;
+    margin-top: 10%;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+
+#formlogin {
+    width: 100%;
+    text-align: center;
+}
+
+
+    #formlogin #loginicon {
+        display: block;
+        margin-top: 50px;
+    }
+
+#username {
+    padding: 10px;
+    border-radius: 8px;
+    margin-top: 20px;
+    display: block;
+    width: 300px;
+    height: 50px;
+}
+#password {
+    padding: 10px;
+    border-radius: 8px;
+    margin-top: 20px;
+    display: block;
+    width: 300px;
+    height: 50px;
+}
+
+.inputlabel {
+    margin-left: 70px;
+    height: 80px;
+    display: flex;
+    width: 500px;
+
+}
+
+
+.inputlogo {
+    padding-left: 130px;
+
+    margin-left: 70px;
+    height: 200px;
+    display: flex;
+    width: 500px;
+}
+
+
+.inputlabel img {
+        margin-top: 28px;
+        margin-right: 20px;
+    }
+
+.inputicon {
+    width: 40px;
+    height: 40px;
+    position:static;
+    margin-top: -10px;
+}
+
+#formlogin button {
+    width: 300px;
+    height: 50px;
+    margin-left: 60px;
+    border-radius: 8px;
+}
+
+#signup {
+    margin-top: 50px;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 500px;
+}
+
+
+.logout {
+    text-decoration: none;
+    margin-right: 15px;
+    color: rgb(241,163,28);
+    position: absolute;
+    right: 0;
+}
+
+#content {
+    padding-top: 20px;
+    width: 100%;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+
+#time {
+    width: 100%;
+    height: 500px;
+}
+
+#txt {
+    margin-top: 150px;
+    font-size: 200px;
+}
+
+#date {
+    font-size: 30px;
+}
+
+.ho {
+    text-decoration: none;
+    margin-right: 15px;
+    color: rgb(241,163,28);
+    position: absolute;
+    right: 70px;
+}
+
+
+.log {
+    text-decoration: none;
+    margin-right: 15px;
+    color: rgb(241,163,28);
+    position: absolute;
+    right: 190px;
+}
+
+
+.Home {
+    text-decoration: none;
+    margin-right: 15px;
+    color: rgb(241,163,28);
+    position: absolute;
+    right: 310px;
+}
+
+
+
+
+
+
+
